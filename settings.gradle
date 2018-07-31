@@ -1,1 +1,1 @@
-include ':showpicture', ':audiodemo'
+include ':showpicture', ':audiodemo' ,'AndroidRecorder'
