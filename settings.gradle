@@ -1,1 +1,1 @@
-include ':showpic', ':audiodemo'
+include ':showpicture', ':audiodemo'

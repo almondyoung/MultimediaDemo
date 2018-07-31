@@ -19,7 +19,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import com.adajqd.audiodemo.base.MvpView;
+import com.hugo.audiodemo.base.MvpView;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
@@ -30,9 +30,9 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.adajqd.audiodemo.Consts.AUDIO_FORMAT;
-import static com.adajqd.audiodemo.Consts.CHANNEL_CONFIG;
-import static com.adajqd.audiodemo.Consts.SAMPLE_RATE_INHZ;
+import static com.hugo.audiodemo.Consts.AUDIO_FORMAT;
+import static com.hugo.audiodemo.Consts.CHANNEL_CONFIG;
+import static com.hugo.audiodemo.Consts.SAMPLE_RATE_INHZ;
 
 
 public class MainActivity extends AppCompatActivity implements MvpView, View.OnClickListener {

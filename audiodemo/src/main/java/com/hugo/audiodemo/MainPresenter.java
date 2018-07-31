@@ -1,7 +1,7 @@
 package com.hugo.audiodemo;
 
-import com.adajqd.audiodemo.base.MvpPresenter;
-import com.adajqd.audiodemo.base.MvpView;
+import com.hugo.audiodemo.base.MvpPresenter;
+import com.hugo.audiodemo.base.MvpView;
 
 
 
