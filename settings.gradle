@@ -1,1 +1,1 @@
-include ':AndroidOpenGLDemo',':showpicture', ':audiodemo' ,':AndroidRecorder',':OpenGLES20Study',':OpenGLVideoRecord'
+include ':showpicture', ':audiodemo', ':AndroidRecorder', ':OpenGLES20Study', ':OpenGLVideoRecord', ':AndroidOpenGLDemo'
