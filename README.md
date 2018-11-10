@@ -56,10 +56,12 @@ Android音视频采集的方法：预览用SurfaceView，视频采集用Camera�
 基于预览完成拍照，并增加水印功能
 
 
-
-
-
-
+## 参考：
+[沐小晨曦大神](https://github.com/Omooo)
+根据  
+[《Android 音视频从入门到提高 —— 任务列表》-卢俊](http://blog.51cto.com/ticktick/1956269)   
+写的demo：
+[Android音视频开发任务](https://github.com/Omooo/AudioVideoTask) 
 
 
 
